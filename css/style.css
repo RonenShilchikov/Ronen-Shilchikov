@@ -173,7 +173,7 @@ section {
 
     .home-content p {
         position: relative;
-        font-size: 1.6rem;
+        font-size: 2rem;
         margin: 2rem 0 4rem;
         text-align: center; /* Center text within the paragraph */
         max-width: 600px; /* Optional: Limit the width for better readability */
@@ -350,7 +350,7 @@ span {
 
 .about-content p {
     position: relative;
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin: 2rem 0 3rem;
 }
 
